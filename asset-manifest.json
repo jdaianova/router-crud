@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/router-crud/static/css/main.a4bc5ab6.css",
+    "main.js": "/router-crud/static/js/main.beb1143a.js",
+    "static/js/787.9b53cdea.chunk.js": "/router-crud/static/js/787.9b53cdea.chunk.js",
+    "static/media/ava.jpg": "/router-crud/static/media/ava.eced93e2e039909394a0.jpg",
+    "index.html": "/router-crud/index.html",
+    "main.a4bc5ab6.css.map": "/router-crud/static/css/main.a4bc5ab6.css.map",
+    "main.beb1143a.js.map": "/router-crud/static/js/main.beb1143a.js.map",
+    "787.9b53cdea.chunk.js.map": "/router-crud/static/js/787.9b53cdea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4bc5ab6.css",
+    "static/js/main.beb1143a.js"
+  ]
+}
