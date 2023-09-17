@@ -1,0 +1,16 @@
+.MainPage {
+    background-color: lightgray;
+    width: 400px;
+    text-align: center;
+    padding: 20px;
+}
+
+.MainPage button {
+    text-transform: uppercase;
+    background-color: rgb(10, 50, 170);
+    border: none;
+    color: white;
+    padding: 10px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}

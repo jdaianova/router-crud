@@ -1,0 +1,48 @@
+.Post {
+    background-color: aliceblue;
+    padding: 15px 15px 5px 15px;
+    margin-top: 10px;
+    text-align: left;
+    border-radius: 3px;
+}
+
+.Post img {
+    width: 40px;
+}
+
+.Post__Header {
+    display: flex;
+    flex-direction: row;
+}
+
+.Post__Header__Info {
+    margin-left: 10px;
+}
+
+.Post__Header__Info h6 {
+    font-size: 18px;
+    color: rgb(28, 105, 178);
+}
+
+.Post__Header__Info p {
+    color: gray;
+}
+
+.Post__Content {
+    padding: 15px;
+    background-color: white;
+    margin-top: 5px;
+    border-radius: 3px;
+}
+
+.Post__Btn {
+    margin-top: 10px;
+    text-align: right;
+}
+
+.Post__Btn button {
+    background-color: gray;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 7px;
+}
